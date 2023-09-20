@@ -33,6 +33,8 @@ dados = pd.read_csv(nome_do_arquivo)
 
 Agora, filtraremos os dados para extrair informações específicas. Neste exemplo, estamos extraindo IDs de usuários da coluna "user ID". Ajuste isso de acordo com sua necessidade.
 
+
+
 ```python
 # Extrair IDs de usuários
 ids_usuarios = dados['user ID']
@@ -41,6 +43,7 @@ ids_usuarios = dados['user ID']
 **Passo 5: Requisições HTTP para uma API**
 
 Vamos fazer solicitações HTTP a uma API para obter mais informações com base nos IDs extraídos. Configure a URL base da API de acordo com o seu caso.
+**link da API (obtido no README do repositório santander-dev-week-2023-api'):**'https://sdw-2023-prd.up.railway.app/users/'
 
 ```python
 # Defina a URL base da API

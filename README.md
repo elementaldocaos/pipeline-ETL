@@ -1,27 +1,27 @@
 # Pipeline ETL com IA Generativa
 
 ## Gerenciando as tarefas dos projeto:
-O tempo estimado para concluir o projeto pode variar dependendo da sua experiência em programação, familiaridade com as ferramentas e bibliotecas envolvidas, e a complexidade das mensagens geradas. No entanto, posso fornecer uma estimativa aproximada com base nas etapas descritas:
+O tempo estimado para concluir o projeto pode variar dependendo da sua experiência em programação, familiaridade com as ferramentas e bibliotecas envolvidas, e a complexidade das mensagens geradas. No entanto, posso fornecer uma estimativa aproximada com base nas etapas descritas: 
 
 1. **Preparação Inicial e Preparação de Dados**:
-   - Essas etapas geralmente não consomem muito tempo. Pode levar cerca de 30 minutos a 1 hora para garantir que seu ambiente de desenvolvimento esteja configurado corretamente e que você tenha o arquivo CSV com os IDs de usuário.
+   - Essas etapas geralmente não consomem muito tempo. Pode levar cerca de 30 minutos a 1 hora para garantir que seu ambiente de desenvolvimento esteja configurado corretamente e que você tenha o arquivo CSV com os IDs de usuário.                  **30 min a 1h**
 
 2. **Consumindo a API da Santander Dev Week 2023**:
-   - O tempo para consumir a API e obter os dados dos clientes pode variar com base na eficiência da sua implementação. Dependendo do número de IDs de usuário e da taxa de solicitação, isso pode levar algumas horas.
+   - O tempo para consumir a API e obter os dados dos clientes pode variar com base na eficiência da sua implementação. Dependendo do número de IDs de usuário e da taxa de solicitação, isso pode levar algumas horas.                 **30 min a 1h**
 
 3. **Utilizando a API do ChatGPT (OpenAI)**:
-   - O tempo para gerar mensagens personalizadas depende da complexidade das mensagens e do número de clientes. Isso pode levar algumas horas, especialmente se você estiver gerando muitas mensagens.
+   - O tempo para gerar mensagens personalizadas depende da complexidade das mensagens e do número de clientes. Isso pode levar algumas horas, especialmente se você estiver gerando muitas mensagens.                       **Estimo 30 min**
 
 4. **Atualizando os Dados dos Clientes**:
-   - Atualizar os dados na API da Santander também pode variar em tempo, dependendo do número de clientes e da eficiência da implementação. Isso pode levar algumas horas.
+   - Atualizar os dados na API da Santander também pode variar em tempo, dependendo do número de clientes e da eficiência da implementação. Isso pode levar algumas horas. **estimo 1h**
 
 5. **Revisão e Entrega**:
-   - A revisão final e a garantia de que tudo funcione corretamente podem levar cerca de 1 a 2 horas, dependendo da quantidade de testes e verificações necessários.
+   - A revisão final e a garantia de que tudo funcione corretamente podem levar cerca de 1 a 2 horas, dependendo da quantidade de testes e verificações necessários.    **1 a 2 horas**
 
 6. **Entrega Final**:
    - O tempo para preparar a documentação e entregar o projeto geralmente não é muito longo, cerca de 1 a 2 horas.
 
-Com base nessas estimativas, o projeto completo pode levar de aproximadamente 5 a 10 horas para ser concluído. Lembre-se de que essas são estimativas aproximadas e podem variar dependendo das circunstâncias específicas. É sempre bom reservar algum tempo extra para garantir que tudo esteja funcionando perfeitamente e para acomodar eventuais desafios imprevistos.
+Com base nessas estimativas, **o projeto completo pode levar de aproximadamente 5 a 10 horas** para ser concluído. Lembre-se de que essas são estimativas aproximadas e podem variar dependendo das circunstâncias específicas. É sempre bom reservar algum tempo extra para garantir que tudo esteja funcionando perfeitamente e para acomodar eventuais desafios imprevistos.
 
 Se você estiver com prazos apertados ou preocupado com o tempo, é importante planejar e priorizar as etapas do projeto de acordo com sua disponibilidade e urgência.
 
